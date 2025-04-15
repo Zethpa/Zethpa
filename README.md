@@ -14,8 +14,7 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-</div>  
-
+</div>
 
 
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=Zethpa&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=github"/>
